@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rostom Benhamada
-- 👀 I’m interested in software developement
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning most computer science aspects at the university 
 - 💞️ I’m looking to collaborate on various teams to offer my skills 
 - 📫 to reach me : rostomfknb@gmail.com
