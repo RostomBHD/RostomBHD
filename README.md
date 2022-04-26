@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rostom Benhamada
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning most computer science aspects at the university 
+- Coding skills : Java , Python , JavaScript , PHP , Swift, R and HTML
 - 💞️ I’m looking to collaborate on various teams to offer my skills 
 - 📫 to reach me : rostomfknb@gmail.com
 
